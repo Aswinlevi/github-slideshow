@@ -4,6 +4,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+"Flot like a butterfly,sting like a bee"- Muhammad Ali
 
 Use the left arrow to go back!
